@@ -5,18 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=GenAI+Architect;Automation+Architect;Agentic+AI+Specialist;SDET+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Automation+Engineer;18%2B+Years+Experience;GenAI+Architect;Agentic+AI+Specialist" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💻 About Me
 
-I am a **GenAI Software Engineer & Automation Architect** specialized in building **Agentic AI Workflows** and robust, **Self-Healing test automation frameworks**. I leverage **Generative AI (GenAI)**, **RAG patterns**, and **Chain-of-Thought (CoT)** prompting to automate complex software lifecycles, with a deep focus on **Open Cloud architectures** and **Shift-Left testing**.
+I am a **Senior Automation Engineer & GenAI Architect** with over **18 years of experience** in building **Agentic AI Workflows** and robust, **Self-Healing test automation frameworks**. I leverage **Generative AI (GenAI)**, **RAG patterns**, and **Chain-of-Thought (CoT)** prompting to automate complex software lifecycles, with a deep focus on **Open Cloud architectures** and **Shift-Left testing**.
 
 - 🤖 **Current Focus**: **Retrieval-Augmented Generation (RAG)** systems, **Agentic AI** frameworks, and **Prompt Optimization**.
 - 🚀 **Latest Project**: [n8n Daily Test Summary Reporter](https://github.com/Manoj8759/Project-10-N8N_Daily-Test-Execution-Summary-Reporter) – Integrating LLMs for automated RCA.
-- 🛠️ **Expertise**: **AI-Driven Test Lifecycle**, Selenium-to-Playwright migration via AI, and **Scalable Automation**.
+- 🛠️ **Expertise**: **18+ Years in DIY Automation**, AI-Driven Test Lifecycle, and **Scalable Automation**.
 - 💡 **Passion**: Designing scalable **Observability** solutions and bridges between AI models and practical engineering.
 - 📫 **Reach me**: [LinkedIn Profile](https://www.linkedin.com/in/manoj-kumar-y-679a3959/)
 - ⚡ **Goal**: Engineering an autonomous, AI-driven future for software quality.
