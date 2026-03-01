@@ -16,7 +16,7 @@ I am a **GenAI Software Engineer & Automation Architect** specialized in buildin
 
 - 🤖 **Current Focus**: **Retrieval-Augmented Generation (RAG)** systems, **Agentic AI** frameworks, and **Prompt Optimization**.
 - 🚀 **Latest Project**: [n8n Daily Test Summary Reporter](https://github.com/Manoj8759/Project-10-N8N_Daily-Test-Execution-Summary-Reporter) – Integrating LLMs for automated RCA.
-- 🛠️ **Expertise**: **AI-Driven Test Lifecycle**, Selenium-to-Playwright migration via AI, and **Cloud-Native Automation**.
+- 🛠️ **Expertise**: **AI-Driven Test Lifecycle**, Selenium-to-Playwright migration via AI, and **Scalable Automation**.
 - 💡 **Passion**: Designing scalable **Observability** solutions and bridges between AI models and practical engineering.
 - 📫 **Reach me**: [LinkedIn Profile](https://www.linkedin.com/in/manoj-kumar-y-679a3959/)
 - ⚡ **Goal**: Engineering an autonomous, AI-driven future for software quality.
@@ -30,7 +30,7 @@ I am a **GenAI Software Engineer & Automation Architect** specialized in buildin
 | **Generative AI** | `GenAI Strategy` `LLMs (GPT-4, Claude, Groq)` `RAG Systems` `Agentic AI` |
 | **AI Prompting** | `Chain-of-Thought (CoT)` `Few-Shot Prompting` `System Message Engineering` `Prompt Optimization` |
 | **Advanced Automation** | `AI-Driven Test Lifecycle` `Self-Healing Frameworks` `Shift-Left Testing` `Observability` |
-| **Cloud & Infrastructure** | `Open Cloud Architecture` `Cloud-Native Automation` `Scalable Infrastructure` `CI/CD/CD` |
+| **Cloud & Infrastructure** | `Open Cloud Architecture` `Scalable Automation` `Scalable Infrastructure` `CI/CD/CD` |
 
 ---
 
