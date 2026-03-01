@@ -5,21 +5,32 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Software+Engineer;Automation+Architect;LLM+Prompt+Expert;SDET+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=GenAI+Architect;Automation+Architect;Agentic+AI+Specialist;SDET+Expert" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💻 About Me
 
-I am an **AI Software Engineer & Automation Architect** focused on building intelligent systems and robust test automation frameworks. From **Local LLM integration** to **Playwright architectures**, I love building tools that automate the complex.
+I am a **GenAI Software Engineer & Automation Architect** specialized in building **Agentic AI Workflows** and robust, **Self-Healing test automation frameworks**. I leverage **Generative AI (GenAI)**, **RAG patterns**, and **Chain-of-Thought (CoT)** prompting to automate complex software lifecycles, with a deep focus on **Open Cloud architectures** and **Shift-Left testing**.
 
-- 🤖 **Current Focus**: Local LLM Prompt Engineering & AI-driven Test Case Generation.
-- 🚀 **Latest Project**: [n8n Daily Test Summary Reporter](https://github.com/Manoj8759/Project-10-N8N_Daily-Test-Execution-Summary-Reporter).
-- 🛠️ **Expertise**: Selenium-to-Playwright migration, AI converters, and custom automation scripts.
-- 💡 **Passion**: Simplifying the bridge between AI models and practical software engineering.
+- 🤖 **Current Focus**: **Retrieval-Augmented Generation (RAG)** systems, **Agentic AI** frameworks, and **Prompt Optimization**.
+- 🚀 **Latest Project**: [n8n Daily Test Summary Reporter](https://github.com/Manoj8759/Project-10-N8N_Daily-Test-Execution-Summary-Reporter) – Integrating LLMs for automated RCA.
+- 🛠️ **Expertise**: **AI-Driven Test Lifecycle**, Selenium-to-Playwright migration via AI, and **Cloud-Native Automation**.
+- 💡 **Passion**: Designing scalable **Observability** solutions and bridges between AI models and practical engineering.
 - 📫 **Reach me**: [LinkedIn Profile](https://www.linkedin.com/in/manoj-kumar-y-679a3959/)
-- ⚡ **Goal**: Automating every repeatable task with AI!
+- ⚡ **Goal**: Engineering an autonomous, AI-driven future for software quality.
+
+---
+
+### 🏆 Core Competencies & ATS Keywords
+
+| Category | Keywords |
+| :--- | :--- |
+| **Generative AI** | `GenAI Strategy` `LLMs (GPT-4, Claude, Groq)` `RAG Systems` `Agentic AI` |
+| **AI Prompting** | `Chain-of-Thought (CoT)` `Few-Shot Prompting` `System Message Engineering` `Prompt Optimization` |
+| **Advanced Automation** | `AI-Driven Test Lifecycle` `Self-Healing Frameworks` `Shift-Left Testing` `Observability` |
+| **Cloud & Infrastructure** | `Open Cloud Architecture` `Cloud-Native Automation` `Scalable Infrastructure` `CI/CD/CD` |
 
 ---
 
@@ -27,11 +38,11 @@ I am an **AI Software Engineer & Automation Architect** focused on building inte
 
 | Area | Technologies |
 | :--- | :--- |
-| **AI / LLM** | `Groq` `Kimi` `Local LLMs` `Prompt Engineering` |
-| **Test Automation** | `Playwright` `Selenium` `Appium` `Postman` |
-| **Workflow Automation** | `n8n` `GitHub Actions` `Jenkins` |
+| **AI / LLM** | `Groq` `Kimi` `Local LLMs (Ollama, LM Studio)` `Prompt Engineering` |
+| **Test Automation** | `Playwright` `Selenium` `Appium` `Postman` `Rest Assured` |
+| **Workflow & DevOps** | `n8n` `GitHub Actions` `Jenkins` `Docker` `Kubernetes` |
 | **Languages** | `TypeScript` `JavaScript` `Java` `Python` `SQL` |
-| **Concepts** | `Rice Pot Method` `SDET Patterns` `AI Frameworks` |
+| **Concepts** | `Rice Pot Method` `SDET Patterns` `AI Frameworks` `Microservices` |
 
 <br/>
 
