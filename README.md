@@ -12,7 +12,7 @@
 
 ### 💻 About Me
 
-I am a **Senior Automation Engineer & GenAI Architect** with over **18 years of experience** in building **Agentic AI Workflows** and robust, **Self-Healing test automation frameworks**. I leverage **Generative AI (GenAI)**, **RAG patterns**, and **Chain-of-Thought (CoT)** prompting to automate complex software lifecycles, with a deep focus on **Open Cloud architectures** and **Shift-Left testing**.
+I am a **Senior Automation Engineer & GenAI Architect** with over **20 years of experience** in building **Agentic AI Workflows** and robust, **Self-Healing test automation frameworks**. I leverage **Generative AI (GenAI)**, **RAG patterns**, and **Chain-of-Thought (CoT)** prompting to automate complex software lifecycles, with a deep focus on **Open Cloud architectures** and **Shift-Left testing**.
 
 - 🤖 **Current Focus**: **Retrieval-Augmented Generation (RAG)** systems, **Agentic AI** frameworks, and **Prompt Optimization**.
 - 🚀 **Latest Project**: [n8n Daily Test Summary Reporter](https://github.com/Manoj8759/Project-10-N8N_Daily-Test-Execution-Summary-Reporter) – Integrating LLMs for automated RCA.
